@@ -1,1 +1,2 @@
+@reboot sleep 20 && mpc clear && mpc load Favorites && mpc random on && mpc repeat on && mpc play
 * * * * * /home/peter/scripts/autopair
